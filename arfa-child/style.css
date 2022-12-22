@@ -1,0 +1,19 @@
+/*
+Theme Name: Arfa Child
+Template: arfa
+Theme URI:
+Author: selimita
+Author URI:
+Description: WordPress Development arfa Theme
+Version: 1.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Blog
+Text Domain: arfa-child
+*/
+
+/* Search Result Highlights */
+.arfa-highlights{
+    background-color: rgb(233, 120, 14);
+    font-weight: bold;
+}
